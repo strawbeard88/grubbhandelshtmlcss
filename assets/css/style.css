@@ -15,6 +15,10 @@
   font-family: Helvetica, sans-serif;
 }
 
+body {
+    background-color: var(--backlight);
+    color: var(--textdark);
+}
 /* -------------- Slider home page -------------- */
 
 #slider {
@@ -26,7 +30,7 @@
     width: 500%;
     margin: 0;
     left: 0;
-    animation: 10s slider infinite;
+    animation: 20s slider infinite;
 }   
 
 #slider figure img {

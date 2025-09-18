@@ -69,6 +69,8 @@ body {
 }
 /* -------------- Navbar section basic style -------------- */
 
+/* ÄNDRA Till att menyn blir hamburger menu när man kommer ner till 500 width */
+
 .header {
   background-color: var(--backdark);
   color: white;
